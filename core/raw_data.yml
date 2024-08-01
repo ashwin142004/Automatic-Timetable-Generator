@@ -1,0 +1,52 @@
+classes:
+  - c1
+  - c2
+  - c3
+  - c4
+days:
+  - Mon
+  - Tue
+  - Wed
+  - Thur
+  - Fri
+  - Sat
+
+hours:
+  - h1
+  - h2
+  - h3
+  - h4
+  - h5
+  - h6
+
+# <course, room_type, lecturer, units>
+course_mapping: 
+  - ["DAA",  "L", "l5", 2]
+  - ["MES",    "T","l5", 2]
+  - ["DSA",    "T","l5", 1]
+  - ["MATH",     "L", "l2", 2]
+  - ["JAVA",   "T", "l2", 1]
+  - ["OOP",    "T","l5", 1]
+  - ["PYTHON","T","l5", 1]
+  - ["OS", "T","l5", 1]
+  - ["CO",     "L", "l1", 1]
+  - ["SS",     "L", "l3", 1]
+  - ["ENG",  "L", "l3", 1]
+  - ["DBMS",    "L", "l0", 2]
+  - ["CPC",     "L", "l3", 2]
+  - ["MATH2",    "T", "l4", 1]
+  - ["CS", "L", "l3", 2]
+  - ["CRYPTO",  "T","l5", 2]
+  - ["CN","L", "l3", 1]
+  - ["DS","L", "l3", 1]
+
+rooms:
+  type:
+    - T
+    - L
+  number:
+    - 50
+    - 50
+  
+  
+  
